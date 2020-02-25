@@ -1,0 +1,6 @@
+C:\Users\tchri\OneDrive\Documents\School\Second Year\PROG2070 (Quality Assurance)\Assignment2\TCAssignment2\TCAssignment2\bin\Debug\TCAssignment2.exe.config
+C:\Users\tchri\OneDrive\Documents\School\Second Year\PROG2070 (Quality Assurance)\Assignment2\TCAssignment2\TCAssignment2\bin\Debug\TCAssignment2.exe
+C:\Users\tchri\OneDrive\Documents\School\Second Year\PROG2070 (Quality Assurance)\Assignment2\TCAssignment2\TCAssignment2\bin\Debug\TCAssignment2.pdb
+C:\Users\tchri\OneDrive\Documents\School\Second Year\PROG2070 (Quality Assurance)\Assignment2\TCAssignment2\TCAssignment2\obj\Debug\TCAssignment2.csprojAssemblyReference.cache
+C:\Users\tchri\OneDrive\Documents\School\Second Year\PROG2070 (Quality Assurance)\Assignment2\TCAssignment2\TCAssignment2\obj\Debug\TCAssignment2.exe
+C:\Users\tchri\OneDrive\Documents\School\Second Year\PROG2070 (Quality Assurance)\Assignment2\TCAssignment2\TCAssignment2\obj\Debug\TCAssignment2.pdb
