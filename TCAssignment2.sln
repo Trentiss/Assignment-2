@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29728.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCAssignment2", "TCAssignment2\TCAssignment2.csproj", "{889CEC08-5E84-4633-8619-24398DCC765F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCAsignment2", "TCAssignment2\TCAsignment2.csproj", "{889CEC08-5E84-4633-8619-24398DCC765F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PROG2070Assign2.Tests", "PROG2070Assign2.Tests\PROG2070Assign2.Tests.csproj", "{08A94231-652D-4653-8228-6F51C7F01708}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{889CEC08-5E84-4633-8619-24398DCC765F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{889CEC08-5E84-4633-8619-24398DCC765F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{889CEC08-5E84-4633-8619-24398DCC765F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08A94231-652D-4653-8228-6F51C7F01708}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08A94231-652D-4653-8228-6F51C7F01708}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08A94231-652D-4653-8228-6F51C7F01708}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08A94231-652D-4653-8228-6F51C7F01708}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
